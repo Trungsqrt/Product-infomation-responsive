@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.main {
+    width: 1200px;
+    min-height: 100vh;
+    max-width: 100%;
+    margin: 10px auto 360px;
+    background-color: #fff;
+    padding-bottom: 20px;
+}
