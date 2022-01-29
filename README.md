@@ -1,1 +1,1 @@
-# Product-infomation-responsive
+Responsive for product information page
